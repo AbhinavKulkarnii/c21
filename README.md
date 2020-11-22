@@ -1,2 +1,2 @@
-# c21
-algorithm for collision detection for 2 rectangles
+# p5.play-boilerplate
+Boiler plate for p5.play
